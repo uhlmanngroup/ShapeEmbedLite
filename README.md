@@ -1,7 +1,6 @@
 # ShapeEmbedLite
 
-ShapeEmbedLite is a lightweight variant of ShapeEmbed ([arXiv:2507.01009](
-https://doi.org/10.48550/arXiv.2507.01009)), designed to learn representations of 2D shapes using a deep learning model trained on distance matrices derived from object contours. 
+ShapeEmbedLite is a lightweight variant of [ShapeEmbed](https://github.com/uhlmanngroup/ShapeEmbed), designed to learn representations of 2D shapes using a deep learning model trained on distance matrices derived from object contours. 
 In contrast to ShapeEmbed, ShapeEmbedLite uses a multi-layer perceptron to decode latent codes back into contour points. This design makes the model lighter and well-suited for small and challenging microscopy image datasets or computationally constrained environments.
 
 If you use ShapeEmbedLite in your work, please cite it as follows: 
