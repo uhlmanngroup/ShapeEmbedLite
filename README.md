@@ -5,7 +5,7 @@ https://doi.org/10.48550/arXiv.2507.01009)), designed to learn representations o
 In contrast to ShapeEmbed, ShapeEmbedLite uses a multi-layer perceptron to decode latent codes back into contour points. This design makes the model lighter and well-suited for small and challenging microscopy image datasets or computationally constrained environments.
 
 If you use ShapeEmbedLite in your work, please cite it as follows: 
-> Foix-Romero, A., Krull, A. and Uhlmann, V., 2025. A comparison of data-driven shape quantification methods for 2D microscopy images. ICCV BIC Workshop. [Preprint]()
+> Foix-Romero, A., Krull, A. and Uhlmann, V., 2025. A comparison of data-driven shape quantification methods for 2D microscopy images. ICCV BIC Workshop. [Paper](https://openaccess.thecvf.com/content/ICCV2025W/BIC/html/Romero_A_comparison_of_data-driven_shape_quantification_methods_for_2D_microscopy_ICCVW_2025_paper.html)
 
 <p align="center">
 <picture>
